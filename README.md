@@ -71,9 +71,9 @@ I am a **computer engineering student** passionate about programming and technol
 
 ## 📕Latest Blog Posts
 
-- [Python Programming Basics](https://your-blog-url.com)
-- [Learning Web Development](https://your-blog-url.com)
-- [Exploring Data Science](https://your-blog-url.com)
+- [Python Programming Basics]
+- [Learning Web Development
+- [Exploring Data Science]
 
 <!-- BLOG-POST-LIST:END -->
 
