@@ -68,13 +68,3 @@ I am a **computer engineering student** passionate about programming and technol
 [![wakatime](https://wakatime.com/badge/user/your-id.svg)](https://wakatime.com/) <b>&nbsp; coding since **Jan 22, 2021**</b>
 
 ---
-
-## 📕Latest Blog Posts
-
-- [Python Programming Basics]
-- [Learning Web Development
-- [Exploring Data Science]
-
-<!-- BLOG-POST-LIST:END -->
-
-Let me know if further customization is needed! 😊
