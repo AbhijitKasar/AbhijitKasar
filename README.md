@@ -1,70 +1,322 @@
-Here’s the revised profile for **Abhijit Kasar** with the requested changes:  
+<!-- ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ -->
+<!-- ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗ -->
+<!-- ███████║███████║██║     █████╔╝ █████╗  ██████╔╝ -->
+<!-- ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗ -->
+<!-- ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║ -->
+<!-- ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ -->
+
+<div align="center">
+
+```
+╔═════════════════════════════════════════════════════════════════════╗
+║  > Initializing profile...                                          ║
+║  > Loading identity...                                              ║
+║  > Access Granted. Welcome to the terminal of:                      ║
+║                                                                     ║
+║   █████╗ ██████╗ ██╗  ██╗██╗    ██╗██╗████████╗                     ║
+║  ██╔══██╗██╔══██╗██║  ██║██║    ██║██║╚══██╔══╝                     ║
+║  ███████║██████╔╝███████║██║    ██║██║   ██║                        ║
+║  ██╔══██║██╔══██╗██╔══██║██║    ██║██║   ██║                        ║
+║  ██║  ██║██████╔╝██║  ██║██║ ████╔╝██║   ██║                        ║
+║  ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚════╝ ╚═╝   ╚═╝                          ║
+║                                                                     ║
+║                          K A S A R                                  ║
+╚═════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> **`root@kali:~# whoami`** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=%5B*%5D+Cybersecurity+Enthusiast+%2F+Aspiring+Penetration+Tester;%5B*%5D+CTF+Player+%7C+TryHackMe+%3A%3A+AbhijitKasar;%5B*%5D+Computer+Engineering+Student;%5B*%5D+OSINT+%7C+Cryptography+%7C+Web+Security;%5B*%5D+Building+Secure+Systems+%26+Security+Tools;%5B%2B%5D+Hack+The+Planet.)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbhijitKasar&color=00ff41&style=for-the-badge&label=TERMINAL+VISITORS)
+
+</div>
 
 ---
 
-# Welcome to Abhijit Kasar's Profile!  
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhijit.Kasar)
+## `> cat about_me.txt`
 
-I am a **computer engineering student** passionate about programming and technology. I strive to apply my skills in engineering and software development to create innovative and impactful solutions.
+```bash
+┌──(abhijit㉿kali)-[~/profile]
+└─$ cat about_me.txt
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+[+] Name      : Abhijit Balasaheb Kasar
+[+] Role      : Cybersecurity Enthusiast | Aspiring Penetration Tester
+[+] Education : B.Tech Computer Science Engineering Student
+[+] Status    : Actively hunting bugs, breaking things ethically 🕵️
+[+] Alias     : AbhijitKasar
+[+] Location  : Maharashtra, India
+```
 
-### Talking about Personal Stuff:
+I'm a **B.Tech Computer Science Engineering student** driven by an obsession with **Cybersecurity, Penetration Testing, OSINT, Cryptography, and Secure Software Development**. I don't just study security — I **live** it.
 
-- 👨‍🎓 I'm currently pursuing a **B.Tech in Computer Engineering**
-- 🔭 I’m currently working on **web development, DSA, AI-ML**.
-- 👨‍🏫 I love **exploring new technologies** and constantly learning.
-- 💬 Ask me about anything, I am happy to help!
-- ✍ I am also working on **improving my coding skills** through platforms like LeetCode.
-- 🌱 I’m currently learning: 
-  - Advanced **Python** programming
-  - **JavaScript** for web development
+```
+[SKILL_TREE] ──────────────────────────────────────────────
+  ├── 🔍  Security Research          [██████████] 100%
+  ├── 🏴  CTF Competitions           [████████░░]  80%
+  ├── 🛠️  Security-Focused Projects  [█████████░]  90%
+  ├── 🌐  Web Security & OSINT       [████████░░]  80%
+  └── 📚  TryHackMe Labs             [█████████░]  90%
+────────────────────────────────────────────────────────────
+```
 
----
+### `> cat career_objective.sh`
 
-## 🛠️ My Favourite Tools
-
-### 👨‍💻 Programming Languages
-
-<p>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
-
-### 🧰 Frameworks and Libraries
-
-<p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-</p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-</p>
-
-### 💻 Software and Tools
-
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-</p>
+```bash
+#!/bin/bash
+echo "[*] Target: Cybersecurity | Penetration Testing | Vuln Assessment"
+echo "[*] Target: SOC Operations | Security Engineering"
+echo "[+] Mission: Identify weaknesses. Strengthen defenses. Build resilient systems."
+echo "[+] Status: OPEN TO INTERNSHIP & ENTRY-LEVEL OPPORTUNITIES"
+```
 
 ---
 
-## 📊 Stats
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
-[![wakatime](https://wakatime.com/badge/user/your-id.svg)](https://wakatime.com/) <b>&nbsp; coding since **Jan 22, 2021**</b>
+## `> ls -la tech_stack/`
+
+### `// Languages`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,cpp,c,js,html,css&theme=dark" />
+</p>
+
+### `// Platforms & Tools`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
+</p>
+
+### `// Arsenal — Security Tools`
+
+<p align="center">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logoColor=lime" />
+<img src="https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logoColor=lime" />
+</p>
 
 ---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+## `> ./run_ctf_report.sh`
+
+```
+[*] Scanning for cybersecurity activity logs...
+[+] CTF Participation         : ACTIVE ─ Crypto | Web | RevEng | Forensics
+[+] Vuln Assessment           : Hands-on experience with penetration testing methodologies
+[+] Tool Proficiency          : Burp Suite, Nmap, Wireshark, Nessus, Metasploit, Hydra
+[+] Continuous Learning       : TryHackMe Labs & Cybersecurity Research
+[+] Active Profile            : https://tryhackme.com/p/AbhijitKasar
+[*] All checks passed. Operator is dangerous. ⚠️
+```
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+## `> ls projects/ --classified`
+
+```
+drwxr-x--- 2 abhijit hackers 4096 Jun 12 2026 .
+drwxr-xr-x 8 abhijit hackers 4096 Jun 12 2026 ..
+-rwx------ 1 abhijit hackers  ??? quantum_messaging_system/
+-rwx------ 1 abhijit hackers  ??? osint_aggregation_platform/
+-rwx------ 1 abhijit hackers  ??? firewall_threat_intelligence/
+```
+
+<details>
+<summary><b>🔒 [CLASSIFIED] Quantum Messaging System</b></summary>
+
+```
+[*] Project: Quantum Messaging System
+[*] Status : Post-Quantum Secure Architecture
+────────────────────────────────────────────────
+[+] Forward & Backward Secrecy
+[+] Metadata Protection Layer
+[+] Secure Group Communication Protocol
+[+] Quantum-Resistant Encryption Algorithms
+[!] CAUTION: Highly Encrypted. Do not attempt to intercept.
+```
+
+</details>
+
+<details>
+<summary><b>🌍 [CLASSIFIED] OSINT Aggregation Platform</b></summary>
+
+```
+[*] Project: OSINT Aggregation Platform
+[*] Stack  : React | Vite | TypeScript | Tailwind CSS | Shadcn UI
+────────────────────────────────────────────────────────────────
+[+] Username Intelligence    ─ Cross-platform identity tracking
+[+] Domain Intelligence      ─ DNS, WHOIS, certificate analysis
+[+] Image Intelligence       ─ Reverse image & metadata extraction
+[+] Geolocation Intelligence ─ Coordinate & IP mapping
+[!] For authorized use only. This is a tool for defenders.
+```
+
+</details>
+
+<details>
+<summary><b>🛡️ [CLASSIFIED] Firewall with Real-Time Threat Intelligence</b></summary>
+
+```
+[*] Project: Open-Source WAF with Threat Intel
+[*] Status : Concept → Active Development
+────────────────────────────────────────────────────────────────
+[+] Real-Time Monitoring         ─ Live traffic analysis
+[+] Automated Threat Mitigation  ─ Block & log hostile actors
+[+] Threat Intelligence Feed     ─ Dynamic blocklist updates
+[!] Protecting perimeters. One packet at a time.
+```
+
+</details>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+## `> ./fetch_github_stats.sh --user AbhijitKasar`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhijitKasar&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&icon_color=00FF41"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitKasar&layout=compact&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41"/>
+
+</div>
+
+---
+
+## `> ./streak_check.sh`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitKasar&theme=dark&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00FF41&border=00FF41"/>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+## `> cat tryhackme_status.log`
+
+<div align="center">
+
+```
+[+] Platform  : TryHackMe
+[+] Alias     : AbhijitKasar
+[+] Status    : ACTIVE — Ranked & Earning Badges
+[+] Focus     : Red Team | OSINT | Cryptography | Network Analysis
+```
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/AbhijitKasar.png" alt="TryHackMe Badge" />
+
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AbhijitKasar)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-AbhijitKasar-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AbhijitKasar)
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+## `> cat certifications.txt`
+
+```bash
+┌──(abhijit㉿kali)-[~/certs]
+└─$ ls -la
+
+[✔] Cyber Security Essentials
+[✔] Burp Suite: In-Depth Survival Guide
+[✔] Cybersecurity Fundamentals Specialization
+[✔] Getting Started with Wireshark
+[✔] Encryption and Cryptography Essentials
+[✔] Security Hacking
+
+[*] Credentials verified. Operator cleared for duty. 🔓
+```
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+## `> ./connect.sh --open-channels`
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhijit-gaikwad-b4639029a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/AbhijitKasar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
+&nbsp;
+<a href="https://tryhackme.com/p/AbhijitKasar">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:gabhijit59@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+```
+[+] Channels open for: Collaboration | CTF Teams | Projects | Research | Internships
+[*] Guys, let's connect — collaborate on events, projects, cybersecurity research, and grow together! 🚀
+```
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+## `> sudo cat recruiter_snapshot.txt`
+
+```
+[sudo] password for recruiter: ••••••••
+Access granted. Reading file...
+
+╔═══════════════════════════════════════════════════════════╗
+║           OPERATOR PROFILE — SECURITY CLEARANCE           ║
+╠═══════════════════════════════════════════════════════════╣
+║  [✔] Cybersecurity-Focused B.Tech Computer Science Engineering Student   ║
+║  [✔] Hands-on Experience with Security Tools & Methods    ║
+║  [✔] Strong Interest in Offensive Security & Pentest      ║
+║  [✔] Experience Building Security-Focused Projects        ║
+║  [✔] Active Learner via CTFs & TryHackMe                  ║
+║  [✔] Open to Internship & Entry-Level Cyber Opportunities ║
+╠═══════════════════════════════════════════════════════════╣
+║  STATUS: READY FOR DEPLOYMENT 🟢                          ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+```
+ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ █                                             █
+ █   ⚡ "Security is a process, not a product" █
+ █                                             █
+ █        — Bruce Schneier                     █
+ █                                             █
+ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+
+`> Connection terminated. Stay paranoid. Stay secure. 👾`
+
+</div>
